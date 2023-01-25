@@ -1,3 +1,3 @@
 ----> Programming Teacher 
-----> Fullstack developing
+----> Fullstack Development
 ----> https://zer0cheros.fi
