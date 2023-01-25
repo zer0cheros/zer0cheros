@@ -1,4 +1,3 @@
 ----> Programming Teacher 
-----------> Javascript, HTML, CSS, Python
----------------> Coding for fun
------------------>https://zer0cheros.fi
+----> Fullstack developing
+----> https://zer0cheros.fi
